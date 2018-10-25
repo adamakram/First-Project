@@ -1,2 +1,2 @@
-# First-Project
-This is my first project I am posting on Git-Hub, I am looking to develop my skills in python programming and hopefully move on to building something more advanced in the future.
+# Python-Projects
+These are my first few projects, I am posting on Git-Hub and looking to develop my skills in python programming to hopefully move on to building something more advanced in the future.
